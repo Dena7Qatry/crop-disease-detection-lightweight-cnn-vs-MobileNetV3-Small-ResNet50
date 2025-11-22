@@ -1,0 +1,1 @@
+# crop-disease-detection-lightweight-cnn-vs-MobileNetV3-Small-ResNet50
